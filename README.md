@@ -23,3 +23,4 @@ Info:
 
 Developer/Owner:magz#4842
 
+discord server: https://discord.gg/eH4BPRvWbJ
