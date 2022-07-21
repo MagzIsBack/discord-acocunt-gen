@@ -21,10 +21,5 @@ dont use proxies if they are not fast roatating ones, keep threads to 1 if your 
 
 Info:
 
-Main Discord Server: https://discord.gg/zujURtdRwP
+Developer/Owner:magz#4842
 
-Backup Discord Server: https://discord.gg/VC8NASNnZj
-
-Developer/Owner: blob#0005
-
-Github: https://github.com/blob0005
